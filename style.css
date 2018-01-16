@@ -17,9 +17,15 @@
   font-weight: lighter;
 }
 #footer{
-  padding: 30px;
+  /* padding: 30px; */
   background: rgb(30, 30, 30);
   color: lightgrey;
+  font-size: 15px;
+}
+
+
+#footer a:hover {
+  color: white;
 }
 
 .card {
